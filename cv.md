@@ -1,7 +1,7 @@
-**Iuliia Shirobokova**
-**https://www.linkedin.com/in/iuliia-shirobokova-917a6b1b6**
-**jvshirobokova@gmail.com**
-*+420776476966*
+**Iuliia Shirobokova**  
+**https://www.linkedin.com/in/iuliia-shirobokova-917a6b1b6**  
+**jvshirobokova@gmail.com**  
+*+420776476966*  
 
 
 * I am an engineer with 2 years experience in Software Company.I worked as  manual testering ,my job consisted of Conducting web testing (manual), developing test plans,
